@@ -8,6 +8,10 @@ This application sorts education data by district and allows for the comparison 
 - Run npm install in terminal 
 - Run npm start to launch the app
 
+<img src="Screen Shot 2019-02-15 at 11.47.19 AM.png"></img>
+<img src="Screen Shot 2019-02-15 at 11.47.33 AM.png"></img>
+<img src="Screen Shot 2019-02-15 at 11.47.59 AM.png"></img>
+
 ## Team
 
 - Ryan Harrington
